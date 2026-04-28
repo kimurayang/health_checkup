@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+build/
+dist/
+*.exe
+*.pkg
+*.toc
+*.pyz
+*.broken
+backup/
+3FB88A00
+D61B5B00
+F9829900
+python
